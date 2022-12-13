@@ -1,5 +1,8 @@
 ### Hi there  I'M Attah Sosah👋
+I am A Developer
+- 🌱 I’m currently a Javascript Developer Working with technologies such as REACTJS , NEXTJS and Tailwindcss
 
+- I have experience with Python(Specifically Django), Javascript, Tailwindcss , HTML, CSS ..
 <!--
 **Attahsosah/Attahsosah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
