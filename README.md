@@ -1,5 +1,5 @@
 ### Hi there  I'M Attah Sosah👋
-I am A Developer
+Full Stack Developer
 - 🌱 I’m currently a Javascript Developer Working with technologies such as REACTJS , NEXTJS and Tailwindcss
 
 - I have experience with Python(Specifically Django), Javascript, Tailwindcss , HTML, CSS ..
@@ -8,7 +8,7 @@ I am A Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
