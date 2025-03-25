@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You send me a DM on my Instagram at @utterly_attah
 - ⚡ Fun fact: ...
 -->
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+</p>
